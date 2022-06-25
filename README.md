@@ -35,10 +35,10 @@ Após a validação das hipóteses, foi considerado a compra de imóveis com as 
 - Abaixo da mediana de preço por view;
 - Abaixo do preço esperado por tamanho do imóvel.
 
-Em caso de compra dos imóveis recomendados, o total de gasto será de \\$460.505.622.
+Em caso de compra dos imóveis recomendados, o total de gasto será de \$460.505.622.
 
 Caso todos os imóveis sejam vendidos pelo preço recomendado, a receita será de \$556.726.432. Logo, um lucro de \$96.220.810.
 
-Foi constatado que a qualidade do material ('grade') da casa impacta diretamente no preço. Dessa forma, caso os imóveis comprados sofram uma reforma para revenda, a receita será de \\$750.772.725. Logo, um lucro potencial de \\$244.216.541, considerando o custo de reforma em 10% do valor de compra do imóvel.
+Foi constatado que a qualidade do material ('grade') da casa impacta diretamente no preço. Dessa forma, caso os imóveis comprados sofram uma reforma para revenda, a receita será de \$750.772.725. Logo, um lucro potencial de \$244.216.541, considerando o custo de reforma em 10% do valor de compra do imóvel.
 
 <a href="https://app.powerbi.com/view?r=eyJrIjoiYjUzZTgyNTYtYWJmNi00YjFjLTlhN2EtYTA1NmUyZjg0Yzg0IiwidCI6IjY5ZGM3ZWRlLWM1MzAtNDIzZS1iOGFhLWViZmJlNTdlYWMwOSJ9">Link para Power BI</a>
